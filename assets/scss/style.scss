@@ -1,0 +1,26 @@
+@import '_reset';
+@import '_variable';
+@import '_breakpoint';
+@import '_function';
+@import '_mixin';
+
+html {
+  -webkit-overflow-scrolling: touch;
+}
+body {
+  @include fontNotosansR;
+  color: $bk;
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-overflow-scrolling: touch;
+}
+a {
+  color: $bl;
+  text-decoration: none;
+}
+br.forSp {
+  display: none;
+  @include screenSp {
+    display: block;
+  }
+}
