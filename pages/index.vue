@@ -20,15 +20,15 @@
             <div class="toc-cont">
               <ol class="toc-list-sec">
                 <li class="toc-listItme-sec">
-                  <a class="toc-link" href="/">
-                    1-1 ファイル・ディレクトリ構造について
+                  <a class="toc-link" href="/base/">
+                    ファイル・ディレクトリ構造について
                   </a>
                 </li>
                 <li class="toc-listItme-sec">
-                  <a class="toc-link" href="/">1-2 パスについて</a>
+                  <a class="toc-link" href="/base/">パスについて</a>
                 </li>
                 <li class="toc-listItme-sec">
-                  <a class="toc-link" href="/">1-3 ブラウザ・OS</a>
+                  <a class="toc-link" href="/base/">ブラウザ・OS</a>
                 </li>
               </ol>
             </div>
@@ -40,9 +40,10 @@
             </h3>
             <div class="toc-cont">
               <ol class="toc-list-sec">
-                <li>2-1 エディター</li>
-                <li>2-2 Adobe製品</li>
-                <li>2-3 Git・SVN</li>
+                <li><a class="toc-link" href="/tool/">エディター</a></li>
+                <li><a class="toc-link" href="/tool/">Adobe製品</a></li>
+                <li><a class="toc-link" href="/tool/">Git・SVN</a></li>
+                <li><a class="toc-link" href="/tool/">XAMPP</a></li>
               </ol>
             </div>
           </li>
@@ -53,9 +54,9 @@
             </h3>
             <div class="toc-cont">
               <ol class="toc-list-sec">
-                <li>3-1 HTMLとは</li>
-                <li>3-2 HTMLのタグについて</li>
-                <li>3-3 タグを書いてみよう</li>
+                <li><a class="toc-link" href="/">HTMLとは</a></li>
+                <li><a class="toc-link" href="/">HTMLのタグについて</a></li>
+                <li><a class="toc-link" href="/">タグを書いてみよう</a></li>
               </ol>
             </div>
           </li>
@@ -66,12 +67,14 @@
             </h3>
             <div class="toc-cont">
               <ol class="toc-list-sec">
-                <li>4-1 CSSとは</li>
-                <li>4-2 CSSの書き方</li>
-                <li>4-3 CSSを書いてみよう</li>
-                <li>4-4 クラス名のつけ方</li>
-                <li>4-5 SASSについて</li>
-                <li>4-6 フレームワークの紹介</li>
+                <li><a class="toc-link" href="/">4-1 CSSとは</a></li>
+                <li><a class="toc-link" href="/">4-2 CSSの書き方</a></li>
+                <li><a class="toc-link" href="/">4-3 CSSを書いてみよう</a></li>
+                <li><a class="toc-link" href="/">4-4 クラス名のつけ方</a></li>
+                <li><a class="toc-link" href="/">4-5 SASSについて</a></li>
+                <li>
+                  <a class="toc-link" href="/">4-6 フレームワークの紹介</a>
+                </li>
               </ol>
             </div>
           </li>
@@ -82,11 +85,13 @@
             </h3>
             <div class="toc-cont">
               <ol class="toc-list-sec">
-                <li>5-1 Javascriptとは</li>
-                <li>5-2 jQueryについて</li>
-                <li>5-3 JSを書いてみよう</li>
-                <li>5-4 プラグインとは</li>
-                <li>5-5 フレームワークの紹介</li>
+                <li><a class="toc-link" href="/">5-1 Javascriptとは</a></li>
+                <li><a class="toc-link" href="/">5-2 jQueryについて</a></li>
+                <li><a class="toc-link" href="/">5-3 JSを書いてみよう</a></li>
+                <li><a class="toc-link" href="/">5-4 プラグインとは</a></li>
+                <li>
+                  <a class="toc-link" href="/">5-5 フレームワークの紹介</a>
+                </li>
               </ol>
             </div>
           </li>
@@ -97,8 +102,10 @@
             </h3>
             <div class="toc-cont">
               <ol class="toc-list-sec">
-                <li>6-1 課題1（ペラ1）</li>
-                <li>6-2 課題2（5ページくらい）</li>
+                <li><a class="toc-link" href="/">6-1 課題1（ペラ1）</a></li>
+                <li>
+                  <a class="toc-link" href="/">6-2 課題2（5ページくらい）</a>
+                </li>
               </ol>
             </div>
           </li>

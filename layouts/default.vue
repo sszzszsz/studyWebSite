@@ -1,5 +1,5 @@
 <template>
-  <div
+  <main
     ref="wrap"
     class="l_wrap"
     :class="[
@@ -11,7 +11,7 @@
   >
     <Nuxt />
     <TheFooter class="l_footer" />
-  </div>
+  </main>
 </template>
 <script>
 import Vue from 'vue'
